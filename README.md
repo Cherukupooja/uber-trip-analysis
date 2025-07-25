@@ -1,4 +1,4 @@
-Uber NYC Trips Analysis (Jan–Feb)
+# Uber NYC Trips Analysis (Jan–Feb)
 
 This project analyzes Uber trip data for New York City during January and February using Python and Jupyter Notebook. The goal is to visualize trip patterns, identify high-traffic areas, and extract insights to support business and operational decisions.
 
@@ -35,17 +35,20 @@ This project analyzes Uber trip data for New York City during January and Februa
 To run this project locally:
 
 1. Clone this repository:
-   ```bash
-  https://github.com/Cherukupooja/uber-trip-analysis.git
 
+   ```bash
+   git clone https://github.com/Cherukupooja/uber-trip-analysis.git
+   cd uber-trip-analysis
    ```
 
 2. Install dependencies:
+
    ```bash
    pip install pandas numpy matplotlib seaborn plotly
    ```
 
 3. Launch Jupyter Notebook:
+
    ```bash
    jupyter notebook
    ```

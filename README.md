@@ -36,8 +36,8 @@ To run this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/uber-trip-analysis.git
-   cd uber-trip-analysis
+  https://github.com/Cherukupooja/uber-trip-analysis.git
+
    ```
 
 2. Install dependencies:
